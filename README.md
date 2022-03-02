@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Caroline Borges
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+
 - 📫 How to reach me: carolwxp@gmail.com / whatsapp +55 11 984199875
 
 <!---
